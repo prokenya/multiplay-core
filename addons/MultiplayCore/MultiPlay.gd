@@ -510,9 +510,10 @@ func _player_spawned(data):
 			connection_state = ConnectionState.CONNECTED
 	
 	# First time init
-	if player_scene and auto_spawn_player_scene:
+	if player_scene:
 		player.player_node_resource_path = player_scene.resource_path
-		
+	
+	if player_scene and auto_spawn_player_scene:
 		var pscene = player_scene.instantiate()
 		
 		if assign_client_authority:
