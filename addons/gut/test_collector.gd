@@ -263,3 +263,4 @@ func get_pending_count():
 	for s in scripts:
 		count += s.get_pending_count()
 	return count
+
