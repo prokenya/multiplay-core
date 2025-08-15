@@ -4,6 +4,18 @@
 
 # MultiPlay Core
 
+
+> [!IMPORTANT]
+> Hi there! I'm maji. 👋 Sorry for not communicating well enough for a while. My life had been rough lately with lot of responsibilities, and health problems.
+> 
+> This project is currently inactive, but it's not entirely abandoned. I might maintain it again once I'm motivated to.
+>
+> I genuinely appreciate everyone who has shown interest in this project. I'm still open to pull requests, as long as I'm capable of responding.
+>
+> Thank you for your support! and apologizes for the lack of communication, again.
+>
+> 15/8/2025
+
 Create Godot Multiplayer games ready for network, local play and more!
 
 <a href="https://trello.com/b/GbqiaVtB/multiplay-core-roadmap" target="_blank">
